@@ -1,0 +1,15 @@
+#忽略日志文件
+logs/*.log
+monitor.log
+
+#忽略真实配置文件
+config/settings.py
+
+#忽略python编译文件
+__pycache__/
+*.pyc
+
+#忽略IDE配置
+.idea/
+.vscode/
+
